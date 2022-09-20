@@ -3,7 +3,7 @@ package homework1;
 public class miniProjeAsalSayi {
 
 	public static void main(String[] args) {
-		 int number = 1;
+		 int number = 21;
 		 int remainder = number % 2;
 		 System.out.println(remainder);
 		 boolean isPrime = true;
